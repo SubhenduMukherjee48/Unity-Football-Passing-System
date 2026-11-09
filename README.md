@@ -1,19 +1,18 @@
-FIFA2026
-Advanced football simulation game developed in Unity.
+Unity Football Passing System
+Football gameplay systems implemented in Unity.
 
-Features
-AI Controlled Players
-Ball Possession System
-Passing Logic
-Shooting System
-Goalkeeper AI
-Team Behaviors
-Match Controller
-Technology
+Included Systems
+FormationManager
+Creates and manages team formations such as 4-3-3.
+
+RootMotionSyncManager
+Synchronizes CharacterController and Animator during root-motion actions.
+
+Technologies
 Unity 6
 C#
-ShaderLab
-Developer
+Character Controller
+Root Motion
+Football Gameplay Systems
+Author
 Subhendu Mukherjee
-
-Website: https://sites.google.com/view/shivamgaminganimations/home
